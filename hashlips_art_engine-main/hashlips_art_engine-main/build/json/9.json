@@ -1,0 +1,43 @@
+{
+  "name": "memeBoy #9",
+  "description": "hello",
+  "image": "ipfs://NewUriToReplace/9.png",
+  "dna": "5fbf7f4bd1a971cdd025cd7a211a35791d004150",
+  "edition": 9,
+  "date": 1657448068508,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Summer"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "892222"
+    },
+    {
+      "trait_type": "Skeleton",
+      "value": "Skeleton"
+    },
+    {
+      "trait_type": "Cheek",
+      "value": "Sesshōmaru"
+    },
+    {
+      "trait_type": "Nose&Mouse",
+      "value": "Ken Kaneki"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sneech"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Soju"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "pepe sleep mask"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

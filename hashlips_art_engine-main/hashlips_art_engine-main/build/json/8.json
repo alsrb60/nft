@@ -1,0 +1,43 @@
+{
+  "name": "memeBoy #8",
+  "description": "hello",
+  "image": "ipfs://NewUriToReplace/8.png",
+  "dna": "d3ddd0714f61d13e9c8da332ccebe88d6dc2bae9",
+  "edition": 8,
+  "date": 1657448065194,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "41A9E6"
+    },
+    {
+      "trait_type": "Skeleton",
+      "value": "Skeleton"
+    },
+    {
+      "trait_type": "Cheek",
+      "value": "Sesshōmaru"
+    },
+    {
+      "trait_type": "Nose&Mouse",
+      "value": "mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "ultimate muscle"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "jellyfish net"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "one eye patch"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

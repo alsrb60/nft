@@ -1,0 +1,432 @@
+[
+  {
+    "name": "memeBoy #1",
+    "description": "hello",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "9a2117aca99aeab6758a69e71ee42a3fd863c0d6",
+    "edition": 1,
+    "date": 1657448042188,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Fall"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "41A9E6"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Skeleton"
+      },
+      {
+        "trait_type": "Cheek",
+        "value": "Ryomen Sukuna"
+      },
+      {
+        "trait_type": "Nose&Mouse",
+        "value": "Ronald McDonald"
+      },
+      {
+        "trait_type": "Head",
+        "value": "sorting Hat"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Squidward clarinet"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Chunibyo eye patch"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "memeBoy #2",
+    "description": "hello",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "224dedd383876ae53753e29d611044514efec32b",
+    "edition": 2,
+    "date": 1657448045398,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Summer"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "DC84D1"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Skeleton"
+      },
+      {
+        "trait_type": "Cheek",
+        "value": "Sesshōmaru"
+      },
+      {
+        "trait_type": "Nose&Mouse",
+        "value": "Kogoro Mouri"
+      },
+      {
+        "trait_type": "Head",
+        "value": "pink pants"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "fairy magic wand"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cyborg eye"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "memeBoy #3",
+    "description": "hello",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "bc45d4a2ee82961d1ef060c01243fe8e4eeccb94",
+    "edition": 3,
+    "date": 1657448048699,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Fall"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "41A9E6"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Skeleton"
+      },
+      {
+        "trait_type": "Cheek",
+        "value": "Princess Mononoke"
+      },
+      {
+        "trait_type": "Nose&Mouse",
+        "value": "Pain"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Keroro"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Magic guru guru wand"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Dabi"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "memeBoy #4",
+    "description": "hello",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "7a2806e8c365c81bbfbad31e01a37ed329677751",
+    "edition": 4,
+    "date": 1657448052100,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cold"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "FBCEB1"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Skeleton"
+      },
+      {
+        "trait_type": "Cheek",
+        "value": "freckles"
+      },
+      {
+        "trait_type": "Nose&Mouse",
+        "value": "Kogoro Mouri"
+      },
+      {
+        "trait_type": "Head",
+        "value": "saiyan"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Squidward clarinet"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cyborg eye"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "memeBoy #5",
+    "description": "hello",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "9bf2da05a4a8ffa615322aeace4600272779ef1b",
+    "edition": 5,
+    "date": 1657448055200,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Happy"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "E5A575"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Skeleton"
+      },
+      {
+        "trait_type": "Cheek",
+        "value": "Sesshōmaru"
+      },
+      {
+        "trait_type": "Nose&Mouse",
+        "value": "Ronald McDonald"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Jimmy Neutron"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Soju"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "pepe sleep mask"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "memeBoy #6",
+    "description": "hello",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "f6581660ed7af946fdf06a897947a9a3f3670a90",
+    "edition": 6,
+    "date": 1657448058587,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cold"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "41A9E6"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Skeleton"
+      },
+      {
+        "trait_type": "Cheek",
+        "value": "Sesshōmaru"
+      },
+      {
+        "trait_type": "Nose&Mouse",
+        "value": "bonobono"
+      },
+      {
+        "trait_type": "Head",
+        "value": "saiyan"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "spatula"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "millennium eye"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "memeBoy #7",
+    "description": "hello",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "dna": "e01b1e1b06e5a8121616c4d8f96881868ea369c3",
+    "edition": 7,
+    "date": 1657448061797,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "DC84D1"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Skeleton"
+      },
+      {
+        "trait_type": "Cheek",
+        "value": "Homunculus"
+      },
+      {
+        "trait_type": "Nose&Mouse",
+        "value": "Pain"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Keroro"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Squidward clarinet"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "millennium eye"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "memeBoy #8",
+    "description": "hello",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "d3ddd0714f61d13e9c8da332ccebe88d6dc2bae9",
+    "edition": 8,
+    "date": 1657448065194,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "41A9E6"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Skeleton"
+      },
+      {
+        "trait_type": "Cheek",
+        "value": "Sesshōmaru"
+      },
+      {
+        "trait_type": "Nose&Mouse",
+        "value": "mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "ultimate muscle"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "jellyfish net"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "one eye patch"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "memeBoy #9",
+    "description": "hello",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "dna": "5fbf7f4bd1a971cdd025cd7a211a35791d004150",
+    "edition": 9,
+    "date": 1657448068508,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Summer"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "892222"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Skeleton"
+      },
+      {
+        "trait_type": "Cheek",
+        "value": "Sesshōmaru"
+      },
+      {
+        "trait_type": "Nose&Mouse",
+        "value": "Ken Kaneki"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Sneech"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Soju"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "pepe sleep mask"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "memeBoy #10",
+    "description": "hello",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "dna": "d6148a94ffd05d98dfbe349714bc374432b08b56",
+    "edition": 10,
+    "date": 1657448071707,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Spring"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "E5A575"
+      },
+      {
+        "trait_type": "Skeleton",
+        "value": "Skeleton"
+      },
+      {
+        "trait_type": "Cheek",
+        "value": "Ulquiorra Cifer"
+      },
+      {
+        "trait_type": "Nose&Mouse",
+        "value": "Boo"
+      },
+      {
+        "trait_type": "Head",
+        "value": "soft hat"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Sakura wand"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "sage mode"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]

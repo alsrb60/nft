@@ -1,0 +1,43 @@
+{
+  "name": "memeBoy #3",
+  "description": "hello",
+  "image": "ipfs://NewUriToReplace/3.png",
+  "dna": "bc45d4a2ee82961d1ef060c01243fe8e4eeccb94",
+  "edition": 3,
+  "date": 1657448048699,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fall"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "41A9E6"
+    },
+    {
+      "trait_type": "Skeleton",
+      "value": "Skeleton"
+    },
+    {
+      "trait_type": "Cheek",
+      "value": "Princess Mononoke"
+    },
+    {
+      "trait_type": "Nose&Mouse",
+      "value": "Pain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Keroro"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Magic guru guru wand"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Dabi"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

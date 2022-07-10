@@ -1,0 +1,43 @@
+{
+  "name": "memeBoy #2",
+  "description": "hello",
+  "image": "ipfs://NewUriToReplace/2.png",
+  "dna": "224dedd383876ae53753e29d611044514efec32b",
+  "edition": 2,
+  "date": 1657448045398,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Summer"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "DC84D1"
+    },
+    {
+      "trait_type": "Skeleton",
+      "value": "Skeleton"
+    },
+    {
+      "trait_type": "Cheek",
+      "value": "Sesshōmaru"
+    },
+    {
+      "trait_type": "Nose&Mouse",
+      "value": "Kogoro Mouri"
+    },
+    {
+      "trait_type": "Head",
+      "value": "pink pants"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "fairy magic wand"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Cyborg eye"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

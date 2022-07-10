@@ -1,0 +1,43 @@
+{
+  "name": "memeBoy #10",
+  "description": "hello",
+  "image": "ipfs://NewUriToReplace/10.png",
+  "dna": "d6148a94ffd05d98dfbe349714bc374432b08b56",
+  "edition": 10,
+  "date": 1657448071707,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Spring"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "E5A575"
+    },
+    {
+      "trait_type": "Skeleton",
+      "value": "Skeleton"
+    },
+    {
+      "trait_type": "Cheek",
+      "value": "Ulquiorra Cifer"
+    },
+    {
+      "trait_type": "Nose&Mouse",
+      "value": "Boo"
+    },
+    {
+      "trait_type": "Head",
+      "value": "soft hat"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Sakura wand"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "sage mode"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

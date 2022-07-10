@@ -1,0 +1,43 @@
+{
+  "name": "memeBoy #5",
+  "description": "hello",
+  "image": "ipfs://NewUriToReplace/5.png",
+  "dna": "9bf2da05a4a8ffa615322aeace4600272779ef1b",
+  "edition": 5,
+  "date": 1657448055200,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "E5A575"
+    },
+    {
+      "trait_type": "Skeleton",
+      "value": "Skeleton"
+    },
+    {
+      "trait_type": "Cheek",
+      "value": "Sesshōmaru"
+    },
+    {
+      "trait_type": "Nose&Mouse",
+      "value": "Ronald McDonald"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Jimmy Neutron"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Soju"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "pepe sleep mask"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

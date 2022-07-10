@@ -1,0 +1,43 @@
+{
+  "name": "memeBoy #4",
+  "description": "hello",
+  "image": "ipfs://NewUriToReplace/4.png",
+  "dna": "7a2806e8c365c81bbfbad31e01a37ed329677751",
+  "edition": 4,
+  "date": 1657448052100,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cold"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "FBCEB1"
+    },
+    {
+      "trait_type": "Skeleton",
+      "value": "Skeleton"
+    },
+    {
+      "trait_type": "Cheek",
+      "value": "freckles"
+    },
+    {
+      "trait_type": "Nose&Mouse",
+      "value": "Kogoro Mouri"
+    },
+    {
+      "trait_type": "Head",
+      "value": "saiyan"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Squidward clarinet"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Cyborg eye"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

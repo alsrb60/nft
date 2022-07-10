@@ -1,0 +1,43 @@
+{
+  "name": "memeBoy #7",
+  "description": "hello",
+  "image": "ipfs://NewUriToReplace/7.png",
+  "dna": "e01b1e1b06e5a8121616c4d8f96881868ea369c3",
+  "edition": 7,
+  "date": 1657448061797,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "DC84D1"
+    },
+    {
+      "trait_type": "Skeleton",
+      "value": "Skeleton"
+    },
+    {
+      "trait_type": "Cheek",
+      "value": "Homunculus"
+    },
+    {
+      "trait_type": "Nose&Mouse",
+      "value": "Pain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Keroro"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Squidward clarinet"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "millennium eye"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

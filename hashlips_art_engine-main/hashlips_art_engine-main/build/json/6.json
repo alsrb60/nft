@@ -1,0 +1,43 @@
+{
+  "name": "memeBoy #6",
+  "description": "hello",
+  "image": "ipfs://NewUriToReplace/6.png",
+  "dna": "f6581660ed7af946fdf06a897947a9a3f3670a90",
+  "edition": 6,
+  "date": 1657448058587,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cold"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "41A9E6"
+    },
+    {
+      "trait_type": "Skeleton",
+      "value": "Skeleton"
+    },
+    {
+      "trait_type": "Cheek",
+      "value": "Sesshōmaru"
+    },
+    {
+      "trait_type": "Nose&Mouse",
+      "value": "bonobono"
+    },
+    {
+      "trait_type": "Head",
+      "value": "saiyan"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "spatula"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "millennium eye"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
