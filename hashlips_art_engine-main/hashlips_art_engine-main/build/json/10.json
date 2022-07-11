@@ -2,17 +2,17 @@
   "name": "memeBoy #10",
   "description": "hello",
   "image": "ipfs://NewUriToReplace/10.png",
-  "dna": "d6148a94ffd05d98dfbe349714bc374432b08b56",
+  "dna": "3ce348d1eca3a10df2d883fd0526e9efdfcb2ddd",
   "edition": 10,
-  "date": 1657448071707,
+  "date": 1657450176145,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Spring"
+      "value": "Night"
     },
     {
       "trait_type": "Skin",
-      "value": "E5A575"
+      "value": "60B45F"
     },
     {
       "trait_type": "Skeleton",
@@ -20,23 +20,23 @@
     },
     {
       "trait_type": "Cheek",
-      "value": "Ulquiorra Cifer"
+      "value": "freckles"
     },
     {
       "trait_type": "Nose&Mouse",
-      "value": "Boo"
+      "value": "Ken Kaneki"
     },
     {
       "trait_type": "Head",
-      "value": "soft hat"
+      "value": "angelRing"
     },
     {
       "trait_type": "Weapon",
-      "value": "Sakura wand"
+      "value": "bone"
     },
     {
       "trait_type": "Eye",
-      "value": "sage mode"
+      "value": "one eye patch"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -2,17 +2,17 @@
   "name": "memeBoy #6",
   "description": "hello",
   "image": "ipfs://NewUriToReplace/6.png",
-  "dna": "f6581660ed7af946fdf06a897947a9a3f3670a90",
+  "dna": "b7308749c126b8e6c4f4d7486a87d7ad9ed7a09a",
   "edition": 6,
-  "date": 1657448058587,
+  "date": 1657450146557,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Cold"
+      "value": "Summer"
     },
     {
       "trait_type": "Skin",
-      "value": "41A9E6"
+      "value": "CF822A"
     },
     {
       "trait_type": "Skeleton",
@@ -20,23 +20,23 @@
     },
     {
       "trait_type": "Cheek",
-      "value": "Sesshōmaru"
+      "value": "Hisoka"
     },
     {
       "trait_type": "Nose&Mouse",
-      "value": "bonobono"
+      "value": "Homer Simpson"
     },
     {
       "trait_type": "Head",
-      "value": "saiyan"
+      "value": "pink pants"
     },
     {
       "trait_type": "Weapon",
-      "value": "spatula"
+      "value": "Magic guru guru wand"
     },
     {
       "trait_type": "Eye",
-      "value": "millennium eye"
+      "value": "water goggles"
     }
   ],
   "compiler": "HashLips Art Engine"

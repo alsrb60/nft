@@ -2,17 +2,17 @@
   "name": "memeBoy #7",
   "description": "hello",
   "image": "ipfs://NewUriToReplace/7.png",
-  "dna": "e01b1e1b06e5a8121616c4d8f96881868ea369c3",
+  "dna": "94d127e10d71e21cb2d12f1e52f526d63fca85ba",
   "edition": 7,
-  "date": 1657448061797,
+  "date": 1657450150040,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "White"
+      "value": "Winter"
     },
     {
       "trait_type": "Skin",
-      "value": "DC84D1"
+      "value": "60B45F"
     },
     {
       "trait_type": "Skeleton",
@@ -20,23 +20,23 @@
     },
     {
       "trait_type": "Cheek",
-      "value": "Homunculus"
+      "value": "Crocodile"
     },
     {
       "trait_type": "Nose&Mouse",
-      "value": "Pain"
+      "value": "Kakashi"
     },
     {
       "trait_type": "Head",
-      "value": "Keroro"
+      "value": "Yugi"
     },
     {
       "trait_type": "Weapon",
-      "value": "Squidward clarinet"
+      "value": "Sakura wand"
     },
     {
       "trait_type": "Eye",
-      "value": "millennium eye"
+      "value": "Cyborg eye"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -2,9 +2,9 @@
   "name": "memeBoy #8",
   "description": "hello",
   "image": "ipfs://NewUriToReplace/8.png",
-  "dna": "d3ddd0714f61d13e9c8da332ccebe88d6dc2bae9",
+  "dna": "0889d62a0d459df4786a8744d97b14b062418320",
   "edition": 8,
-  "date": 1657448065194,
+  "date": 1657450160736,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Skin",
-      "value": "41A9E6"
+      "value": "E5A575"
     },
     {
       "trait_type": "Skeleton",
@@ -24,19 +24,19 @@
     },
     {
       "trait_type": "Nose&Mouse",
-      "value": "mask"
+      "value": "Ken Kaneki"
     },
     {
       "trait_type": "Head",
-      "value": "ultimate muscle"
+      "value": "pink pants"
     },
     {
       "trait_type": "Weapon",
-      "value": "jellyfish net"
+      "value": "green onion"
     },
     {
       "trait_type": "Eye",
-      "value": "one eye patch"
+      "value": "Cyborg eye"
     }
   ],
   "compiler": "HashLips Art Engine"

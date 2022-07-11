@@ -2,17 +2,17 @@
   "name": "memeBoy #2",
   "description": "hello",
   "image": "ipfs://NewUriToReplace/2.png",
-  "dna": "224dedd383876ae53753e29d611044514efec32b",
+  "dna": "00f6b43d26da3841779ba594e57f241093b72a5f",
   "edition": 2,
-  "date": 1657448045398,
+  "date": 1657450133344,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Summer"
+      "value": "Fall"
     },
     {
       "trait_type": "Skin",
-      "value": "DC84D1"
+      "value": "E5A575"
     },
     {
       "trait_type": "Skeleton",
@@ -20,23 +20,23 @@
     },
     {
       "trait_type": "Cheek",
-      "value": "Sesshōmaru"
+      "value": "Ryomen Sukuna"
     },
     {
       "trait_type": "Nose&Mouse",
-      "value": "Kogoro Mouri"
+      "value": "Grimmjow"
     },
     {
       "trait_type": "Head",
-      "value": "pink pants"
+      "value": "japanese bully man"
     },
     {
       "trait_type": "Weapon",
-      "value": "fairy magic wand"
+      "value": "Soju"
     },
     {
       "trait_type": "Eye",
-      "value": "Cyborg eye"
+      "value": "scouter"
     }
   ],
   "compiler": "HashLips Art Engine"
